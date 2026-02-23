@@ -1,6 +1,6 @@
-# Bonjour, je suis Enzo, ou Zabyad !
+# Bonjour, je suis Enzo, ou Zabyad ! | Hello, I am Enzo, or Zabyad !
 
-Probablement meilleur devant un ordi que dans la vie.
+Probablement meilleur devant un ordi que dans la vie. | Probably better in front of a computer than in life.
 
 ## 👤 Contacts
 
@@ -9,17 +9,23 @@ Probablement meilleur devant un ordi que dans la vie.
 
 ---
 
-## ℹ️ À propos
+## ℹ️ À propos de moi | About me
 
-- 🎓 Étudiant en BTS SIO (Services Informatiques aux Organisations) Option SLAM (Programmation) au Lycée Jean Mermoz de Montpellier.
-- 💼 En recherche d'un stage de 4 semaines pour Juin 2026 et de 6 semaines pour mars 2027.
-- 📝 Mes cours me parlent actuellement du **C#**, du **PHP** et de **SQL Server**, mais ils ont aussi parlé du **Python**, du **HTML** et du **CSS**
-- 🎯 Objectif : Travailler dans l'informatique plus tard (très original je sais)
-- 💜 J'aime aussi la musique, les nouvelles technologies, l'histoire et les sports (certains plus à regarder qu'a pratiquer)
+- 🎓 Étudiant en BTS SIO (Services Informatiques aux Organisations) Option SLAM (Programmation) au Lycée Jean Mermoz de Montpellier. | Student in BTS SIO (BTEC HNS Information Technology) at Lycée Jean Mermoz in Montpellier.
+- 💼 En recherche d'un stage de 4 semaines pour Juin 2026 et de 6 semaines pour mars 2027. | Looking for a 4 week internship for June 2026 and a 6 week internship for March 2027.
+- 📝 Mes cours me parlent actuellement du **C#**, du **PHP** et de **SQL Server**. | I'm learning **C#**, **PHP** and **SQL Server**.
+- 🎯 Objectif : Travailler dans l'informatique plus tard (très original je sais). | My goal : Work in IT (very original I know).
+- 💜 J'aime aussi la musique, les nouvelles technologies, l'histoire et les sports (certains plus à regarder qu'a pratiquer). | I also like music, new technology, history and sports (though i prefer more watching than playing some of them).
 
 ---
 
-### 🌐 Langages 
+### 🗣️ Langues parlées | Spoken languages
+
+- 🇫🇷 Français
+- 🇬🇧 English
+
+
+### 🌐 Langages maitrisés | Code languages I know and use
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
